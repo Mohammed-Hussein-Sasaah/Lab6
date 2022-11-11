@@ -1,3 +1,16 @@
+/*8. Prime numbers. Write a program that prompts the user for an integer and then 
+prints out all prime numbers up to that integer. For example, when the user 
+enters 20, the program should print
+2 
+3
+5
+7 
+11
+13
+17
+19 */
+
+
 import java.util.Scanner;
 class PrimeNumbers {
     public static void main(String[] args) {
